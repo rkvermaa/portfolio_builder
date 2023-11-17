@@ -103,8 +103,8 @@ with st.container():
         st_lottie(load_lottieurl(lottie_logo['rstudio_lottie']),height=125,width=125, key="js", speed=2.5)
         
         
-# Path to the icon file
-icon_path = 'path/to/your/icon.png'
+badge_html = '''
+[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
+'''
 
-# Display the icon using st.image
-st.image(icon_path, width=100)
+st.markdown(badge_html, unsafe_allow_html=True)
