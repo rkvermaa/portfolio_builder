@@ -1,0 +1,137 @@
+{
+    "events": [
+        {
+            "start_date": {"year": "1999", "month": "7"},
+            "media": {
+                "file_path": "https://scontent.fknu2-1.fna.fbcdn.net/v/t31.18172-8/15419527_1759476617711883_8678043195172128702_o.jpg?_nc_cat=111&ccb=1-7&_nc_sid=9a8829&_nc_ohc=rSqVCQWRpRwAX_dUXzf&_nc_ht=scontent.fknu2-1.fna&oh=00_AfAoVSQ97MRZWFHIAEIjBsoJyZ3kP2gpdnBSC66VOhqEQg&oe=657DDCBC",
+                "credit": "St. Francis Xavier's Inter College, Kanpur",
+                "url": "A"
+            },
+            "text": {
+                "headline": "Embarking on a Journey: High School Beginnings",
+                "text": "High School Years Illuminate Paths to Learning and Growth."
+            }
+        },
+        {
+            "start_date": {"year": "2001", "month": "7"},
+            "media": {
+                "file_path": "https://bnsdic.in/mysiteadmin/gallery_images/5029072076.jpg",
+                "credit": "BNSL Inter College, Kanpur",
+                "url": "B"
+            },
+            "text": {
+                "headline": "Formative Years: Navigating Intermediate School",
+                "text": "<p>Navigating the Formative Years of Intermediate School, where Foundations are Strengthened and Paths to Knowledge Unfold.<p>"
+            }
+        },
+        {
+            "start_date": {"year": "2005", "month": "7"},
+            "media": {
+                "file_path": "https://csjmu.ac.in/wp-content/uploads/2021/07/cs-4.jpg",
+                "credit": "University Institute of Engineering and Technology, Kanpur",
+                "url": "C"
+            },
+            "text": {
+                "headline": "Academic Odyssey: Stepping into B.Tech Realm",
+                "text": "<p> Venturing into the Vast Realm of B.Tech, Where Theories Meet Practical Horizons and Engineering Flourishes.<p>"
+            }
+        },
+        {
+            "start_date": {"year": "2009", "month": ""},
+            "media": {
+                "file_path": "https://sscportal.in/sites/default/files/BSNL-JTO.jpg",
+                "credit": "BSNL",
+                "url": "D"
+            },
+            "text": {
+                "headline": "Engineering Milestone: Conquering BSNL JTO Exam",
+                "text": "<p>A Moment of Pure Bliss and Achievement, Having Mastered the BSNL JTO Exam, Marking a Milestone in Professional Success.<p>"
+            }
+        },
+        {
+            "start_date": {"year": "2010", "month": "3"},
+            "media": {
+                "file_path": "https://scontent.fknu2-1.fna.fbcdn.net/v/t1.6435-9/40215287_1575720839198822_3778828564799946752_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=tEGyXjPE0CsAX_g7WNG&_nc_ht=scontent.fknu2-1.fna&oh=00_AfDfCCMQzy9QhvYO1ZTrS_Tf3hbQ6PbhNGNzEL7d_oRJgQ&oe=657EA6C5",
+                "credit": "RTTC Ahmedabad",
+                "url": "E"
+            },
+            "text": {
+                "headline": "Professional Induction: JTO Training at BSNL",
+                "text": "<p>In-depth JTO Training at BSNL, Shaping Skills for a Dynamic Career Ahead.<p>"
+            }
+        },
+        {
+            "start_date": {"year": "2010", "month": "6"},
+            "media": {
+                "file_path": "https://images.indianexpress.com/2019/06/bsnl-759312.jpg",
+                "credit": "Jamnagar",
+                "url": "F"
+            },
+            "text": {
+                "headline": "Professional Pursuits: Embracing BSNL's Realm ",
+                "text": "<p> Overcoming Hurdles, Learning Team Dynamics, and Refining Customer Handling in the BSNL Realm.<p>"
+            }
+        },
+        {
+            "start_date": {"year": "2016", "month": "3"},
+            "media": {
+                "file_path": "https://static.india.com/wp-content/uploads/2016/03/124.png?impolicy=Medium_Widthonly&w=700",
+                "credit": "GATE",
+                "url": "G"
+            },
+            "text": {
+                "headline": "Gateway to Excellence: Achieving GATE Success",
+                "text": "<p>GATE Exam Driven by the Zeal for Higher Education and Academic Pursuits<p>"
+            }
+        },
+        {
+            "start_date": {"year": "2016", "month": "7"},
+            "media": {
+                "file_path": "https://iitr.ac.in/Institute/About%20the%20Institute/assets/23c657f2efda7731a3c1990b25f318fa2eb1332208f97ab9cc2a7eac70ab5a76_121004011141_iitroorkee.jpg",
+                "credit": "IIT, Roorkee",
+                "url": "H"
+            },
+            "text": {
+                "headline": "Reviving Academic Pursuits: Enrolling in M.Tech at IIT Roorkee",
+                "text": "<p>Joining Premier Institutes Like IIT Roorkee, Fostering Growth Among India's Brightest Minds, A Moment of Great Honor.<p>"
+            }
+        },
+        {
+            "start_date": {"year": "2018", "month": "7"},
+            "media": {
+                "file_path": "https://tsdplarch.com/wp-content/uploads/2019/10/02-1.jpg",
+                "credit": "ATCS, Jaipur",
+                "url": "I"
+            },
+            "text": {
+                "headline": "Transitioning to Data Science: Joining ATCS's Dynamic Team",
+                "text": "<p>Embracing Data Science at ATCS, Unveiling a World of Machine Learning, Deep Learning, and NLP Discoveries.<p>"
+            }
+        },
+        {
+            "start_date": {"year": "2019", "month": "12"},
+            "media": {
+                "file_path": "https://www.iitbhufoundation.org/wp-content/uploads/2022/05/60f1afd102a06ec66089dee5_iitbhu.jpg",
+                "credit": "IIT BHU",
+                "url": "J"
+            },
+            "text": {
+                "headline": "Driving Talent: Recruiting Data Scientists from IIT BHU at ATCS",
+                "text": "<p>Nurturing Interpersonal Skills and Embracing Novel Experiences, Broadening the Horizon Beyond Data Science<p>"
+            }
+        },
+        {
+            "start_date": {"year": "2021", "month": "12"},
+            "media": {
+                "file_path": "https://content.jdmagicbox.com/comp/hyderabad/z4/040pxx40.xx40.161117200027.p3z4/catalogue/ericsson-india-pvt-ltd-hitech-city-hyderabad-telecommunication-equipment-dealers-u2bxq8hjll-250.jpg",
+                "credit": "Ericsson, NOIDA",
+                "url": "K"
+            },
+            "text": {
+                "headline": "Data Mastery at Ericsson: Continuing the Data Scientist Journey",
+                "text": "<p>Mastering Data Science at Ericsson, Amplifying Expertise and Driving Innovative Solutions in a Dynamic Environment<p>"
+            }
+        }
+
+    ]
+}
